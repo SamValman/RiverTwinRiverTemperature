@@ -1,0 +1,23 @@
+# tiff files too big to uplaod
+# The Q files have only been used for analysis so are not needed
+*.tiff
+*.tif
+*.jpeg
+*.zip
+*.jpg
+*.qgz
+*.data-00000-of-00001
+
+# Ecostress images
+*.h5
+
+
+## too many xmls and jsons
+*.xml
+*metadata.json
+*manifest.json
+
+2022_03_01_CNN_TF_tutorial/
+2022_03_09_CNN_ICE/
+*.png
+*.pptx
